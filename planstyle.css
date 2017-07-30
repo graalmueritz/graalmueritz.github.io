@@ -1,0 +1,42 @@
+body {
+	background-color: #2583d8;
+	color:#FFF;
+}
+.plan_wrap {
+	margin:0 auto;
+	margin-top:20px;
+	background:#1e6bbd;
+	width:740px;
+	height:180px;
+	border:1px solid;
+	border-top-color:#5e95d0;
+	border-right-color:#16508f;
+	border-bottom-color:#124173;
+	border-left-color:#3f80c7;
+	-moz-box-shadow: 0px 0px 8px #09274b;
+	-webkit-box-shadow: 0px 0px 8px #09274b;
+	box-shadow: 0px 0px 8px #09274b;
+}
+.plan_header {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:16px;
+	text-shadow:#09274b 1px 1px 1px;
+	text-align:center;
+}
+.plan_info {
+	margin:0 auto;
+	margin-top:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	text-shadow:#09274b 1px 1px 1px;
+	width:410px;
+}
+.plan_info_box {
+	width:18px;
+	height:18px;
+	background:#036;
+	float:left;
+	margin-right:10px;
+	text-align:center;
+	line-height:18px;
+}
